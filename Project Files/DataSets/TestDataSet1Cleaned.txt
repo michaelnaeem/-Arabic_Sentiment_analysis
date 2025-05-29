@@ -1,0 +1,9 @@
+text		class		confidence
+انا اكرة الشوارع النتنه	Negative	90.0
+انا احب مصر و اهلها	Positive	94.2
+انا اعشق الاسلام		Positive	98.2
+انا مسلم وافتخر		Positive	99.7
+انا مصري و اكره ذلك	Negative	81.5
+انا اريد الذهاب الى الكعبه المشرفة	Positive	83.4
+سعيد في الحديقة حزيناً	Negative	69.0
+زيد في الفصل يبكي	Negative	75.9
