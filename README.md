@@ -18,7 +18,7 @@
 Made by      
 * Mahmoud Ahmed Shimy
 * Ahmed Gamal Abdallah
-* Machael Naeem Khalaf
+* Michael Naeem Khalaf
                                                   
                                                   
 Supervisor   
